@@ -1,0 +1,72 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 100px;
+  background-color: aqua;
+}
+img {
+  width: 60px;
+  height: 60px;
+  cursor: grab;
+}
+.link {
+  display: flex;
+  list-style-type: none;
+}
+.link li {
+  margin: 0px 20px;
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-style: italic;
+  font-size: x-large;
+  font-family: monospace;
+}
+.btn {
+  padding: 15px 15px;
+  border: 20px;
+  border-radius: 10px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: monospace;
+}
+.hero {
+  background-color: black;
+  width: 100vw;
+  height: 40vh;
+  display: flex;
+  color: aliceblue;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-image: url(whtsap\ jpg3.jpg);
+}
+.hero {
+  font-size: x-large;
+  font-family: cursive;
+  color: black;
+  font-weight: bolder;
+  text-shadow: aliceblue;
+  font-style: italic;
+}
+.start {
+  align-items: center;
+  justify-content: center;
+  padding: 15px 15px;
+  border: 20px;
+  border-radius: 10px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: monospace;
+}
+.My {
+  width: 100vw;
+  height: 60vh;
+}

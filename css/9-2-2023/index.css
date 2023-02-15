@@ -1,0 +1,24 @@
+.apple {
+  background-color: red;
+  font-size: x-large;
+}
+.mango {
+  background-color: yellow;
+  font-size: x-large;
+}
+.orange {
+  background-color: orange;
+  font-size: x-large;
+}
+@media (max-width: 300px) {
+  .apple {
+    display: block;
+  }
+}
+
+@media (max-width: 500px) and;
+) {
+  .mango {
+    display: block;
+  }
+}
