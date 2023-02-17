@@ -23,7 +23,7 @@ nav {
   color: white;
   font-size: xx-large;
   letter-spacing: 2px;
-  cursor: crosshair;
+  cursor: pointer;
 }
 span {
   color: brown;
